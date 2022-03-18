@@ -102,7 +102,6 @@ function flipcard() {
         setTimeout(checkForMatch, 500)
     }
     cards[optionOneId].setAttribute('src', 'images/white.png')
-    cards[optionOneId].setAttribute('src', 'images/white.png')
 }
 
 createBoard()
