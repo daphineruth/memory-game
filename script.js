@@ -81,7 +81,7 @@ function createBoard() {
              cardsWon.push(cardsChosen)
          }else
          {
-             cards[optionOneId].setAttribute('src',images/blank.png)
+             cards[optionOneId].setAttribute('src', 'images/blank.png')
          }
 
      }
